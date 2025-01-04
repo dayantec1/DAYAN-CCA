@@ -1,6 +1,7 @@
 DAYAN | Cisco Configuration Assistant App :
 ------------------------------------------
-there is two type of DAYAN CCA "python source" & "windows exe"
+this is a persian version of cisco configuration assistant for cisco switch operators with some necessary commands and there is two type of DAYAN CCA "python source" & "windows exe" you can use .
+
 
 Compile from source code prerequisites:
  1. python3.12
