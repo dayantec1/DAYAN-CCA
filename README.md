@@ -24,7 +24,7 @@ Last Update 4Jan25
 ----------------------------------------
 About Us :
  Dayan Technology , 
- we are a company providing IT & IoT services in iran and middle east
+ we are a company providing IT & IoT services in iran and middle east ,
  our services include the design, implementation and support of computer networks and data center infrastructure. 
  for more information contact us:
   Email: info@dayantec.com
