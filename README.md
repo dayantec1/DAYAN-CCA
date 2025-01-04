@@ -23,7 +23,8 @@ TFTP backup mode :
 Last Update 4Jan25
 ----------------------------------------
 About Us :
- Dayan Technology , we are IT & IoT services provider in iran and middle east
+ Dayan Technology , 
+ we are IT & IoT services provider in iran and middle east
  our services include the design, implementation and support of computer networks and data center infrastructure. 
  for more information contact us:
   Email: info@dayantec.com
