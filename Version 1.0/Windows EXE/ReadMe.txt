@@ -14,7 +14,7 @@ Run from exe file :
 TFTP backup mode :
  1. first download solarwinds TFTP
     https://ftp.afrahost1.ir/Program/Solarwinds/SolarWindsTFTPServer.exe
- 2. after install just setup your firewall to allow TCP/UDP 69 port or disable your firewall
+ 2. after installation just setup your firewall to allow TCP/UDP 69 port or disable your firewall
  3. run solarwinds TFTP app and set it to start send/receive file
 
 
