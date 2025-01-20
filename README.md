@@ -20,7 +20,7 @@ TFTP backup mode :
  3. run solarwinds TFTP app and set it to start send/receive file
 
 
-Last Update 4Jan25
+Last Update 20Jan25
 ----------------------------------------
 About Us :
  Dayan Technology , 
